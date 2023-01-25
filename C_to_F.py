@@ -6,5 +6,5 @@ while True:
     except:
         print ("Dit is geen geldig input. Vul een getal in ")
 
-fareheit = (temprature_flt * 1.8)+32
-print (temprature_flt, "graden Celsius is", fareheit, "graden Farenheit")
+fahreheit = (temprature_flt * 1.8)+32
+print (temprature_flt, "graden Celsius is", fahreheit, "graden Fahrenheit")
